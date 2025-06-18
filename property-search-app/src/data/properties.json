@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Gruhaya Boutique Villa",
+    "type": 2,
+    "price": 25000,
+    "bedrooms": 4,
+    "dateAdded": "2023-12-01",
+    "postcode": "NW1",
+    "location": "Kandy",
+    "address": "RAJAPIHILLA TERRACE, 20000 Kandy, Sri Lanka",
+    "description": "Located a 10-minute walk from the Temple of the Tooth Relic, Gruhaya Holiday Home offers accommodation in Kandy. Airport transfers are available at a surcharge.",
+    "images": [
+      "1-1.jpg",
+      "1-2.jpg",
+      "1-3.jpg",
+      "1-4.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Yasmin Hill Longevity Resort - Former Galavilla Boutique Hotel & Spa",
+    "type": 2,
+    "price": 42000,
+    "bedrooms": 3,
+    "dateAdded": "2023-12-01",
+    "postcode": "NW1",
+    "location": "Kandy",
+    "address": "Agalawatta Estate, Moragolla, Thalathuoya, Kandy",
+    "description": "Located 820 m above sea level, Yasmin Hill Longevity Resort - Former Galavilla Boutique Hotel & Spa overlooks the hill country mountain range of Knuckles.",
+    "images": [
+      "2-1.jpg",
+      "2-2.jpg",
+      "2-3.jpg",
+      "2-4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "AGP home",
+    "type": 1,
+    "price": 3500000,
+    "bedrooms": 3,
+    "dateAdded": "2023-12-01",
+    "postcode": "NW1",
+    "location": "Nuwara Eliya",
+    "address": "AGP Home, 35/9 Gajabapura Rd, Mahagastota 22200",
+    "description": "Located within 1.8 km of Gregory Lake and 5.7 km of Hakgala Botanical Garden in Nuwara Eliya, AGP home offers accommodation with seating area. Featuring lake and garden views, this guest house also provides guests with free WiFi. The accommodation provides airport transfers, while a car rental service is also available.",
+    "images": [
+      "3-1.jpg",
+      "3-2.jpg",
+      "3-3.jpg",
+      "3-4.jpg",
+      "3-5.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "The Montfort, Nuwaraeliya",
+    "type": 2,
+    "price": 25000,
+    "bedrooms": 4,
+    "dateAdded": "2023-12-01",
+    "postcode": "NW1",
+    "location": "Nuwara Eliya",
+    "address": "Kalukele Road, 22200 Nuwara Eliya, Sri Lanka",
+    "description": "Set within 1.2 km of Gregory Lake and 7.4 km of Hakgala Botanical Garden in Nuwara Eliya, The Montfort, Nuwaraeliya provides accommodation with seating area. Featuring a 24-hour front desk, this property also provides guests with an outdoor fireplace. There is free private parking and the property offers paid airport shuttle service.",
+    "images": [
+      "4-1.jpg",
+      "4-2.jpg",
+      "4-3.jpg",
+      "4-4.jpg",
+      "4-5.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Cinnamon Wild Yala",
+    "type": 2,
+    "price": 760077,
+    "bedrooms": 10,
+    "dateAdded": "2023-12-01",
+    "postcode": "NW1",
+    "location": "Yala",
+    "address": "Palatupana, Kirinda, Tissamaharama, 82600 Yala, Sri Lanka",
+    "description": "Nestled in the south of Sri Lanka, the property is a 6-hour drive from Bandaranaike International Airport. It is located in Kirinda, a village well-known for its wildlife.",
+    "images": [
+      "5-1.jpg",
+      "5-2.jpg",
+      "5-3.jpg",
+      "5-4.jpg",
+      "5-5.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Randiya Sea View Hotel",
+    "type": 1,
+    "price": 1099603233.75,
+    "bedrooms": 40,
+    "dateAdded": "2021-12-01",
+    "postcode": "NW1",
+    "location": "Mirissa",
+    "address": "Udupila, Mirissa, 81740 Mirissa, Sri Lanka",
+    "description": "The hotel is 50 m from Mirissa Beach, the Whale Watching Mirissa is 1 km away and the Weligama Bay is 8.5 km. The Mirissa Railway Station is 3 km and the Mattala Rajapaksa International Airport is 114 km away.",
+    "images": [
+      "6-1.jpg",
+      "6-2.jpg",
+      "6-3.jpg",
+      "6-4.jpg",
+      "6-5.jpg"
+    ]
+  }
+]
